@@ -1,4 +1,4 @@
-# AWS EC2 Windows Server & IIS Web Hosting
+# AWS EC2 Windows Server & IIS Web Hosting 
 
 ## 📌 Project Overview
 
@@ -179,3 +179,5 @@ Through this project, I gained practical experience with:
 
 B.Tech – Computer Science & Engineering  
 Specialization: Artificial Intelligence & Machine Learning
+
+MIT License
