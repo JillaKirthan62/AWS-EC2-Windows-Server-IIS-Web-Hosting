@@ -136,7 +136,6 @@ AWS-EC2-Windows-IIS/
 ├── README.md
 ├── index.html
 └── architecture/
-    ├── aws-architecture-diagram.jpg
     └── aws-architecture-diagram.png
 ```
 
