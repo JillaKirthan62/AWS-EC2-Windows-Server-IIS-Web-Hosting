@@ -97,16 +97,7 @@ A custom HTML page is created and placed in the IIS default website directory.
 The page can contain a custom message such as:
 
 ```html
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Hello from IIS</title>
-</head>
-<body>
-    <h1>Hello from IIS on Windows Server!</h1>
-    <p>Welcome to my AWS EC2 Windows Server.</p>
-</body>
-</html>
+I gave in website file index.html
 ```
 
 ### 7. Test Public Web Access
