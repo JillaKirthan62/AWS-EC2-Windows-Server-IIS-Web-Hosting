@@ -97,7 +97,7 @@ A custom HTML page is created and placed in the IIS default website directory.
 The page can contain a custom message such as:
 
 ```html
-I gave in website file index.html
+I added the website files to the Kider folder, including the index.html  and style.css files.
 ```
 
 ### 7. Test Public Web Access
@@ -125,7 +125,9 @@ The project uses AWS Security Groups to control inbound network traffic.
 AWS-EC2-Windows-IIS/
 │
 ├── README.md
-├── index.html
+├── Kider files
+│    └── index.html
+│    └── style.css
 └── architecture/
     └── aws-architecture-diagram.png
 ```
